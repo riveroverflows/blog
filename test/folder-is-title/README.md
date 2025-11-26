@@ -7,9 +7,15 @@
 
 ### H3
 
-![](pasted_image.png)
+![](./images/pasted_image.png)
 
-![](Pasted%20image%2020251127023622.png)
+![](./images/intellij.png)
+
+<div>
+<img width="30%" src="./images/pasted_image.png">
+<img width="30%" src="./images/intellij.png">
+</div>
+
 test2
 
 ```mermaid

@@ -7,7 +7,9 @@
 
 ### H3
 
-![[pasted_image.png]]
+![](pasted_image.png)
+
+![](Pasted%20image%2020251127023622.png)
 test2
 
 ```mermaid
